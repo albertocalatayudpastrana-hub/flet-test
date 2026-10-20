@@ -1,1 +1,1 @@
-flet==0.82.2cd C:\flet_test
+flet==0.82.2
